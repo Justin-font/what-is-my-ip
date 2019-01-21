@@ -1,0 +1,15 @@
+{
+    "name": "whatIsMYIP",
+    "version": "0.0.1",
+    "description": "Send ip of your network when it change",
+    "repository": "https://github.com/Justin-font/what-is-my-ip",
+    "author": "Font justin ",
+    "dependencies": {
+        "nodemailer":"5.1.1",
+        "request":"2.88.0",
+        "node-schedule":"1.3.1"
+        },
+    "scripts": {
+        "start": "node app.js"
+    }
+}
